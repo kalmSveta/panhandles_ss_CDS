@@ -1,5 +1,5 @@
-hub panhandles_ss_CDS
-shortLabel panhandles_ss_CDS
-longLabel panhandles strand specific with filtered CDS
+hub panhandles_CDS
+shortLabel panhandles_CDS
+longLabel panhandles with filtered CDS
 genomesFile genomes.txt 
 email svetlana.kalmykova@skoltech.ru
